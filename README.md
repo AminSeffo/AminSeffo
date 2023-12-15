@@ -32,13 +32,18 @@ My name is Amin Seffo
 [<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][github]
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="LATEX" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][github]
+[<img align="left" alt="ROS" width="50px" src="https://avatars.githubusercontent.com/u/852106" />][github]
+[<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/github/explore/4f0e6e4eb6d5a162f06d9ca863c3d0aa59babb86/topics/opencv/opencv.png" />][github]
+
+
 <br />
 <br />
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
--->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
+-->
 
 ## How to Reach me:
 <a href="mailto:ameenseffo@gmail.com">![ameenseffo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
