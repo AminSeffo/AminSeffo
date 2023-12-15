@@ -25,19 +25,7 @@ My name is Amin Seffo
 - 🧑‍💻 Data Science at IBM Client Engineering.
 - 
 ## Tools and Languages
-[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][github]
-[<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][github]
-[<img align="left" alt="MATLAB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][github]
-[<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][github]
-[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="LATEX" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][github]
-[<img align="left" alt="ROS" width="50px" src="https://avatars.githubusercontent.com/u/852106" />][github]
-[<img align="left" alt="OpenCV" width="50px" src="https://raw.githubusercontent.com/github/explore/4f0e6e4eb6d5a162f06d9ca863c3d0aa59babb86/topics/opencv/opencv.png" />][github]
-
-
-<br />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
