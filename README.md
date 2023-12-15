@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 My name is Amin Seffo
-- 🎓 Degree in mechatronics, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
+- 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
 - 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving
 - 👀 Currently looking for internship opportunities.
 - 🧑‍💻 Master@IBM Schoolership
