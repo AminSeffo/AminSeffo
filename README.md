@@ -22,7 +22,6 @@ My name is Amin Seffo
 - 🧑‍💻 Data Science at IBM Client Engineering. 
 - 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving
 - 👀 Currently looking for internship opportunities USA
-- 
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,cpp,docker,linux,matlab,raspberrypi,ros,tensorflow,python)](https://skillicons.dev)
 
