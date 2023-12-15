@@ -21,8 +21,19 @@ Here are some ideas to get you started:
 My name is Amin Seffo
 - 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
 - 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving
-- 👀 Currently looking for internship opportunities.
-- 🧑‍💻 Master@IBM scholarship
+- 👀 Currently looking for internship opportunities USA
+- 🧑‍💻 Data Science at IBM Client Engineering.
+- 
+## Tools and Languages
+[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][github]
+[<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][github]
+[<img align="left" alt="MATLAB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][github]
+[<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][github]
+[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="LATEX" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][github]
+<br />
+<br />
 
 ## How to Reach me:
 <a href="mailto:ameenseffo@gmail.com">![ameenseffo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
