@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&countColor=%2337d67a)
 
 My name is Amin Seffo
-- 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
+- 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich.
 - 🧑‍💻 Data Science at IBM Client Engineering. 
-- 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving
-- 👀 Currently looking for internship opportunities USA
+- 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving.
+- 👀 Currently looking for internship opportunities at MIT.
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,cpp,docker,linux,matlab,raspberrypi,ros,tensorflow,python)](https://skillicons.dev)
 
