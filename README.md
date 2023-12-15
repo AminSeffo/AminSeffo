@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Welcome to my Github!
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AminSeffo.repoName)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&labelColor=%232ccce4&countColor=%23263759)
+
+
 
 My name is Amin Seffo
 - 🎓 Degree in mechatronics, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
