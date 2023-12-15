@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Welcome to my Github!
-![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&labelColor=%232ccce4&countColor=%23263759)
 
 
 
