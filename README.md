@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Welcome to my Github!
-![Visitors](https://api.visitorbadge.io/api/combined?path=AminSeffo&countColor=%2337d67a)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&countColor=%2337d67a)
 My name is Amin Seffo
 - 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich.
 - 🧑‍💻 Data Science at IBM Client Engineering. 
