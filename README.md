@@ -25,7 +25,7 @@ My name is Amin Seffo
 - 🧑‍💻 Data Science at IBM Client Engineering.
 - 
 ## Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,cpp,docker,linux,matlab,raspberrypi,ros,tensorflow,python)](https://skillicons.dev)
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
