@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to my Github!
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AminSeffo.repoName)
 
+My name is Amin Seffo
+- 🎓 Degree in mechatronics, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich
+- 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving
+- 👀 Currently looking for internship opportunities.
+- 🧑‍💻 Master@IBM Schoolership
 
 ## How to Reach me:
 <a href="mailto:ameenseffo@gmail.com">![ameenseffo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/amin-seffo-4647b9202/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+[kit]: https://kitcar-team.de/
