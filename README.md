@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Welcome to my Github!
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&countColor=%2337d67a)
 
