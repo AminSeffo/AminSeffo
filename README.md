@@ -27,14 +27,11 @@ Here are some ideas to get you started:
 - 🧠 Master’s thesis completed at the **MIT-IBM Watson AI Lab** on  
   **Large Language Model-guided Constraint Generation for Robotic Navigation Systems**, awarded *1.0 with distinction*.  
 
+[kit]: https://kitcar-team.de/
+
 ## 🚀 Tools & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,tensorflow,ros,arduino,docker,linux,raspberrypi,matlab,blender)](https://skillicons.dev)
-
-[kit]: https://kitcar-team.de/
-
-## Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,cpp,docker,linux,matlab,raspberrypi,ros,tensorflow,python)](https://skillicons.dev)
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
