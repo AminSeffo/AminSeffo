@@ -18,11 +18,21 @@ Here are some ideas to get you started:
 ## Welcome to my Github!
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=AminSeffo&countColor=%2337d67a)
 
-My name is Amin Seffo
-- 🎓 Degree in Mechatronics and Information Technology, currently in my second year of Master's in Robotics, Cognition, Intelligence at the Technical University of Munich.
-- 🧑‍💻 AI Enginner at IBM Client Engineering. 
-- 🚗 Previously member at [KITcar][kit] for developing computer vision in for autonomous driving.
-- 💬  Currently writting my Master Thesis at MIT-IBM about large langauge model-guided constraint generation in robotics navigation systems
+# Hi, I'm Amin Seffo 👋
+
+- 🎓 Master’s graduate in **Robotics, Cognition, Intelligence (TUM)**, with a Bachelor's in **Mechatronics and Information Technology (KIT)**.  
+- 🔬 Currently part of the **RaHM Lab** at DHBW Karlsruhe, where I lead applied robotics research and supervise student projects involving real-time robotic systems.  
+- 🤖 Former **AI Engineer at IBM Client Engineering**, focusing on AI-driven robotics solutions and industrial prototyping.  
+- 🚗 Former member of [KITcar][kit], contributing to **computer vision systems for autonomous driving**.  
+- 🧠 Master’s thesis completed at the **MIT-IBM Watson AI Lab** on  
+  **Large Language Model-guided Constraint Generation for Robotic Navigation Systems**, awarded *1.0 with distinction*.  
+
+## 🚀 Tools & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,tensorflow,ros,arduino,docker,linux,raspberrypi,matlab,blender)](https://skillicons.dev)
+
+[kit]: https://kitcar-team.de/
+
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,c,cpp,docker,linux,matlab,raspberrypi,ros,tensorflow,python)](https://skillicons.dev)
 
